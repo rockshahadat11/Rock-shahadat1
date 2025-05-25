@@ -1,0 +1,22 @@
+{
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apkUrl": "https://clientbp.kibomodz.online/apk/latest.apk?version=5",
+  "metadata": {
+    "oldHost": "https://bdversion.ggbluefox.com/live",
+    "newHost": "https://clientbp.kibomodz.online/ver",
+    "oldHost2": "https://version.common.redflamenco.com/live",
+    "newHost2": "https://clientbp.kibomodz.online/version123",
+    "gameMetadataUrl": ""
+  },
+  "news": [
+    "নতুন আপডেটে ID BAN হওয়ার কোনো ঝুঁকি নেই — এখন থেকে নিশ্চিন্তে ম্যাচ খেলতে পারো |success|",
+    "ROCK BETA সার্ভার এখন সম্পূর্ণ Anti-Ban প্রযুক্তিতে সুরক্ষিত! |success|",
+    "আপনার আইডি এখন ১০০% নিরাপদ — যে কোনো ম্যাচ খেলুন, BAN হবার ভয় নেই |success|",
+    "নতুন আপডেটে আগের সব BAN সমস্যা সমাধান করা হয়েছে, নিশ্চিন্তে খেলা চালিয়ে যান |success|",
+    "ROCK Anti-Ban ফিচার এখন আরও শক্তিশালী — প্রতিদিন হাজারো ইউজার নিরাপদে খেলছে |success|",
+    "আমাদের Discord সার্ভারে ১ হাজার মেম্বার হলেই ডায়মন্ড ও গোল্ড ইনাম আরও বাড়ানো হবে! নিচের বোতাম থেকে জয়েন করুন |success|",
+    "ওয়েবসাইটে OTP সমস্যা থাকায় এখন Discord দিয়ে লগইন করুন |info|",
+    "আপডেট সংক্রান্ত যেকোনো সমস্যায় Discord সার্ভারে রিপোর্ট করুন — আমাদের টিম সবসময় প্রস্তুত |info|"
+  ]
+}
