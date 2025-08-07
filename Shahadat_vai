@@ -1,1 +1,22 @@
-
+{
+  "Links": {
+    "button1": "https://t.me/+O1Z9XM6UUqthYTM1",
+    "button2": "https://t.me/+O1Z9XM6UUqthYTM1",
+    "button3": "https://t.me/+O1Z9XM6UUqthYTM1",
+    "button4": "https://t.me/+O1Z9XM6UUqthYTM1",
+    "button5": "https://t.me/+O1Z9XM6UUqthYTM1"
+  },
+  "Keys": {
+    "ab123": false,
+    "cd456": false,
+    "ef789": false,
+    "gh012": false,
+    "ij345": false,
+    "kl678": false,
+    "mn901": false,
+    "op234": false,
+    "qr567": false,
+    "st890": false
+  },
+  "UpdateMode": false
+}
